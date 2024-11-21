@@ -1,0 +1,11 @@
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/Exec.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/dao/DAOManager.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/dao/implementations/AutorImplementation.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/dao/implementations/BookImplementation.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/dao/interfaces/AutorInterface.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/dao/interfaces/BookInterface.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/dao/models/Autor.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/dao/models/Book.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/filesManager/CSVManager.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/filesManager/JSONManager.java
+/home/tarde/git/Whatsopp/ExamenPrueba/src/main/java/com/extest/hibernate/HibernateUtil.java

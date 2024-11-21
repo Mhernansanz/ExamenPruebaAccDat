@@ -1,0 +1,11 @@
+com/extest/dao/interfaces/BookInterface.class
+com/extest/hibernate/HibernateUtil.class
+com/extest/dao/interfaces/AutorInterface.class
+com/extest/Exec.class
+com/extest/dao/implementations/AutorImplementation.class
+com/extest/dao/implementations/BookImplementation.class
+com/extest/filesManager/JSONManager.class
+com/extest/dao/models/Autor.class
+com/extest/dao/models/Book.class
+com/extest/dao/DAOManager.class
+com/extest/filesManager/CSVManager.class
